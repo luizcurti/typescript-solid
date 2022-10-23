@@ -1,0 +1,17 @@
+{
+  "entryFile": "./src/srp/main.ts",
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "spec": {
+    "outputDirectory": "build",
+    "specVersion": 3
+  },
+  "swagger": {
+    "outputDirectory": ".",
+    "entryFile": ""
+  },
+  "routes": {
+    "basePath": "/",
+    "entryFile": "",
+    "routesDir": "build"
+  }
+}
